@@ -1,0 +1,8 @@
+Francisco Rocha Juárez - A01730560
+Implementación del main, creación de clase registros, print, métodos de verificación
+
+Iker Guerrero Gonzalez - A00830026
+Creación de la clase Date, implementación del main, métodos de verificación
+
+Aldo Mauricio Cruz Lozada A01732372
+Creación de la clase IP, métodos de verificación
